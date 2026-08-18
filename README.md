@@ -339,3 +339,68 @@ muestra su tamaño.
 El procedimiento y las evidencias se encuentran en:
 
 automatizacion/
+
+15. MongoDB
+
+MongoDB se utiliza únicamente como tema teórico de comparación con PostgreSQL.
+
+En la carpeta:
+
+teoria_mongodb/
+
+se explica:
+
+qué es una base de datos no relacional;
+qué es MongoDB;
+colección;
+documento;
+campo;
+diferencias entre tablas y colecciones;
+ventajas;
+limitaciones;
+casos en los que conviene PostgreSQL;
+casos en los que podría utilizarse MongoDB;
+aplicación de MongoDB al caso del gimnasio;
+ejemplo de documento JSON.
+
+No se instaló ni configuró MongoDB porque la actividad no lo solicita.
+
+16. Evidencias
+
+Las evidencias del proyecto se encuentran organizadas en las diferentes carpetas.
+
+Se incluyen evidencias relacionadas con:
+
+creación de la base;
+carga de datos;
+usuarios y permisos;
+consultas;
+monitoreo;
+EXPLAIN;
+respaldo;
+restauración;
+importación y exportación;
+automatización.
+
+Las evidencias complementan los scripts y procedimientos escritos.
+
+17. Fuentes consultadas
+Documentación oficial de PostgreSQL.
+Documentación oficial de MongoDB.
+Material proporcionado durante la asignatura de Administración de Bases de Datos.
+Documentación de pg_dump, pg_restore, psql y consultas de monitoreo de PostgreSQL.
+18. Uso de herramientas de IA
+
+Durante el desarrollo del proyecto se utilizaron herramientas de inteligencia artificial como apoyo para revisar sintaxis, analizar posibles problemas de diseño, mejorar consultas SQL y revisar procedimientos.
+
+Las decisiones finales, ejecución de scripts, pruebas de funcionamiento y comprensión del proyecto fueron realizadas y verificadas por los integrantes del equipo.
+
+19. Conclusión
+
+El proyecto permitió aplicar diferentes tareas relacionadas con la administración de PostgreSQL en un caso práctico.
+
+Se diseñó una base de datos relacional con integridad referencial, restricciones e índices. También se implementaron diferentes perfiles de acceso, consultas SQL, respaldo y restauración, importación y exportación, automatización, monitoreo y controles de calidad.
+
+Finalmente, se realizó una revisión teórica de MongoDB para comprender las diferencias principales entre el modelo relacional y el modelo orientado a documentos.
+
+El resultado es una base de datos pequeña pero funcional, organizada y documentada para fines académicos.
