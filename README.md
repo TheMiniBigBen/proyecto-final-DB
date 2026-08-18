@@ -1,11 +1,13 @@
 Proyecto Final - Administración de Bases de Datos
 Administración de una base de datos PostgreSQL para un gimnasio de Parkour
+
+
 Integrantes
-José Ernesto Oloño Mayorga
+
+
 Alfonso Ramírez Bravo
-Manuel Adair Medrano Chávez
 Castillo Nevares Ángel Eduardo
-Hernández González Joshua Anthony
+
 1. Descripción del proyecto
 
 Este proyecto consiste en el diseño y administración de una base de datos PostgreSQL para un gimnasio de Parkour.
